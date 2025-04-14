@@ -13,7 +13,7 @@ Featuring:
 - Unity Editor Version: 6000.0.26f1
 
 ## Want to give it a play? 
-- Download the attached .apk file onto your Android phone, and follow package manager instructions to install the app
+- Download the .apk file from this google drive [https://drive.google.com/file/d/1DFEI7AT4EZa3-LSEkl07AwiR7ucSN1NJ/view?usp=sharing] onto your Android phone, and follow package manager instructions to install the app
 - Play!
 
 This is just a project I built for fun while procrastinating- it's essentially an idle game that makes the Star Wars fan in me very happy. I hope you can enjoy it too!
